@@ -1,3 +1,5 @@
+⚠️ CentOS Stream 8 reached EOL on May 31, 2024. This project has been discontinued.
+
 # Red Hat CentOS Stream 8 Ansible Test Image
 
 Red Hat CentOS Stream 8 Docker container for Ansible playbook and role testing.
